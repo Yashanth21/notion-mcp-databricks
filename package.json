@@ -1,0 +1,8 @@
+{
+  "name": "notion-mcp-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+  "start": "npx @notionhq/notion-mcp-server --transport http --host 0.0.0.0 --port 3000"
+  }
+}
